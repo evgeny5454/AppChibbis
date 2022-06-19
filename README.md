@@ -1,6 +1,5 @@
 
-<h3><a href="https://github.com/evgeny5454/Pandora-Store/raw/master/Images/Pandora%20Store.apk" target="_blank"></a>
-  <span itemprop="name">Скачать APK</span></h3>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 <h2><span itemprop="name">Технологии</span> </h2>
 <li>Kotlin</li>
