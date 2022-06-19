@@ -1,3 +1,6 @@
+
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+
 <h2><span itemprop="name">Технологии</span> </h2>
 <li>Kotlin</li>
 <li>Compose Ui</li>
